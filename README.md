@@ -52,3 +52,6 @@ php artisan key:generate
 
 # Jalankan server lokal
 php artisan serve
+
+```
+> Jika kalian suka dengan project kami jangan lupa untuk star project ini 😄. 
